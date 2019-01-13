@@ -11,7 +11,7 @@
 
 
 ### How to use: 
- - [Stylish](https://userstyles.org/styles/165677)
+ - [Stylish](https://userstyles.org/styles/167091)
 
 ### Modify:
 你可以自定义在网站标题栏显示的图标，只要是旧版本font-aweasome中有的都可以，格式形如
