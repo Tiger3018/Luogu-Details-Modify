@@ -1,4 +1,4 @@
-# Vjudge 优化体验
+# 更实用的 Vjudge 主题
 
 ![Screenshot1](ScreenShot/1.png)
 
