@@ -4,7 +4,7 @@
 
  - [Luogu](https://www.luogu.org)
 
-	 仿照洛谷有题/网校的设计对网站细节进行了些许优化。[Readme](luogu3/readme.md)
+	 仿照洛谷有题/网校的设计对网站细节进行了些许优化。[Readme](luogu/readme.md)
 
  - [Vjudge](https://vjudge.net)
 
